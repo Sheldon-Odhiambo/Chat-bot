@@ -252,6 +252,7 @@ select {
 	background: transparent;
 	outline: none;
 	border: none;
+    
 	resize: none;
 	scrollbar-width: none;
 }
